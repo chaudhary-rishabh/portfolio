@@ -33,8 +33,7 @@ export const Skills = () => {
                 <Row>
                     <Col>
                         <div className='skill-bx'>
-                            <h2>Skills</h2>
-                            <p>Description of skills</p>
+                            <h2>Skills</h2>                   
                             <Carousel responsive={responsive} infinite={true} className='skill-slider'>
                                 <div className='item'>
                                     <img src={skillasset1} alt="skillimg" />
