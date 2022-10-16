@@ -64,6 +64,12 @@ export const Projects = () => {
             imgUrl: projImg9,
             url: 'https://soulgiannis.github.io/imshome'
         },
+        {
+            title: "Registration Form",
+            description: "Weightlifting Registration form using PHP",
+            imgUrl: projImg10,
+            url: 'https://github.com/SoulGiannis/Weightlifting'
+        },
     ];
 
     const others = [
