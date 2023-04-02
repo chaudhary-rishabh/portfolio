@@ -44,42 +44,7 @@ export const Projects = () => {
             url:'https://github.com/SoulGiannis/crimemangae.github.io'
         },
     ];
-
-    const webPages = [
-        {
-            title: "Login page",
-            description: "Responsive webpage using JavaScript, HTML and CSS",
-            imgUrl: projImg5,
-            url: 'https://soulgiannis.github.io/login'
-        },
-        {
-            title: "Signup page",
-            description: "Responsive webpage using JavaScript, HTML and CSS",
-            imgUrl: projImg6,
-            url: 'https://soulgiannis.github.io/login'
-        },
-        {
-            title: "Home page",
-            description: "Responsive webpage using JavaScript, HTML and CSS",
-            imgUrl: projImg9,
-            url: 'https://soulgiannis.github.io/imshome'
-        },
-        {
-            title: "Registration Form",
-            description: "Weightlifting Registration form using PHP",
-            imgUrl: projImg10,
-            url: 'https://github.com/SoulGiannis/Weightlifting'
-        },
-    ];
-
-    const others = [
-        {
-            title: "Representation of Lift",
-            description: "Responsive webpage using JavaScript, HTML and CSS",
-            imgUrl: projImg7,
-            url: 'https://soulgiannis.github.io/lift'
-        }
-    ]
+  
     return (
         <section className='project' id='projects'>
             <Container>
